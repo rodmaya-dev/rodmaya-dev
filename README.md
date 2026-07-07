@@ -57,7 +57,7 @@ My background is rooted in **Oracle PL/SQL** and **Microsoft SQL Server (T-SQL)*
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodmaya-dev&show_icons=true&theme=default](https://readme-stats-blond-five.vercel.app/api?username=rodmaya-dev&show_icons=true&theme=default" alt="Rod's GitHub stats" />
+  <img src="https://readme-stats-blond-five.vercel.app/api?username=rodmaya-dev&show_icons=true&theme=default" alt="Rod's GitHub stats" />
 </p>
 
 ---
